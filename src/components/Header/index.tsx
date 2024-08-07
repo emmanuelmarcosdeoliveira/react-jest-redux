@@ -20,9 +20,10 @@ const Header = () => {
       <h1>EBAC Games</h1>
       <div>
         <img src={cesta} />
-        <span>
-          {itens.length} itens, valor total: {paraReal(valorTotal)}
-        </span>
+        <div>
+          <span data-testid="qtd-carrinho"> {itens.length} itens </span>, valor
+          total: {paraReal(valorTotal)}
+        </div>
       </div>
     </S.Header>
   )
