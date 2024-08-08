@@ -1,3 +1,5 @@
+<img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/Readme-constructor.png" alt="Readme em construção" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
